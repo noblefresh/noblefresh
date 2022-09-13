@@ -57,8 +57,9 @@ If you want to get in touch:
 ---
 ## 📈 Stats
 
-![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinacobo&theme=omni&show_icons=true)
+![Noble's GitHub stats](https://github-readme-stats.vercel.app/api?username=noblefresh&theme=omni&show_icons=true)
 
+<!--
 ## 😎 Here you have some of recent my projects: 
 - [Styx](https://styx-shoes.herokuapp.com/)
 - [Hacker News Challenge](https://hacker-news-challenge.vercel.app/)
@@ -68,7 +69,7 @@ If you want to get in touch:
 - [Carol's Kitchen](https://carolinacobo.github.io/CarolsKitchen/)
 
 
-
+-->
 
 <!--
 **noblefresh/noblefresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
