@@ -59,6 +59,9 @@ If you want to get in touch:
 
 ![Noble's GitHub stats](https://github-readme-stats.vercel.app/api?username=noblefresh&theme=omni&show_icons=true)
 
+## Lang
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noblefresh&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 ## 😎 Here you have some of recent my projects: 
 - [Styx](https://styx-shoes.herokuapp.com/)
