@@ -7,7 +7,7 @@
 - 🔭 I’m a team lead at FPNO Tech Community.
 - 👯 I’m currently learning **smart contract**.
 - 💬 I love to share ideas.
-- 📫 How to reach me: ...
+- 📫 I studied Computer Science
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -16,7 +16,7 @@ If you want to get in touch:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/noble-okechi)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ccobo.medium.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noble_okechi)
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nobleokechi/)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nobleokechi/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/noble_okechi/)
 <!--
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://bit.ly/atuohaa/) -->
