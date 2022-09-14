@@ -7,9 +7,9 @@
 - 🔭 I’m a team lead at FPNO Tech Community.
 - 👯 I’m currently learning **smart contract**.
 - 💬 I love to share ideas.
-- 📫 I studied Computer Science
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Studied Computer Science
+- 😄 Open to Collaboration
+- ⚡ Strategic Good Team Player
 
 If you want to get in touch:
 
@@ -62,7 +62,7 @@ If you want to get in touch:
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 #### In progress
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ---
 ## 📈 Stats
