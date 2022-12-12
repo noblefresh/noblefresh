@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Noble Okechi
 
-#### I'm a Backend Engineer. Currently based in Port Hacourt, Nigeria .
+#### I'm a Backend Engineer. Currently based in Port Harcourt, Nigeria .
 - 🕵🏻‍ I'm a TECH lover.
 - 🌱 I enjoy working remotely.
 - 🤔 I work more on Enterprise Private Projects.
