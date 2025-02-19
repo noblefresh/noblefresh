@@ -5,7 +5,7 @@
 - 🌱 I enjoy working remotely.
 - 🤔 I work more on Enterprise Private Projects.
 - 🔭 I’m a team lead at FPNO Tech Community.
-- 👯 I’m currently learning **smart contract**.
+- 👯 I’m currently learning **Cybersecurity**.
 - 💬 I love to share ideas.
 - 📫 Studied Computer Science
 - 😄 Open to Collaboration
